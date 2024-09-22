@@ -13,15 +13,23 @@
   },
   "works":{
     "task1": {
-      "deadline":"2023-09-29",
+      "deadline":"2023-09-30",
       "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
     },
     "task2": {
-      "deadline":"2023-12-01",
+      "deadline":"2023-12-24",
       "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
     },
     "task3": {
-      "deadline":"2023-12-09",
+      "deadline":"2023-12-24",
+      "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
+    },
+    "task4": {
+      "deadline":"2023-12-24",
+      "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
+    },
+    "task5": {
+      "deadline":"2023-12-24",
       "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
     }
   }
